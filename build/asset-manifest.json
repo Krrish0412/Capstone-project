@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98f19f8a.chunk.css",
+    "main.js": "/static/js/main.551fff1c.chunk.js",
+    "main.js.map": "/static/js/main.551fff1c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.846c2eda.js",
+    "runtime-main.js.map": "/static/js/runtime-main.846c2eda.js.map",
+    "static/css/2.631cbb15.chunk.css": "/static/css/2.631cbb15.chunk.css",
+    "static/js/2.b732422d.chunk.js": "/static/js/2.b732422d.chunk.js",
+    "static/js/2.b732422d.chunk.js.map": "/static/js/2.b732422d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.631cbb15.chunk.css.map": "/static/css/2.631cbb15.chunk.css.map",
+    "static/css/main.98f19f8a.chunk.css.map": "/static/css/main.98f19f8a.chunk.css.map",
+    "static/js/2.b732422d.chunk.js.LICENSE.txt": "/static/js/2.b732422d.chunk.js.LICENSE.txt",
+    "static/media/1.9cd7d1eb.png": "/static/media/1.9cd7d1eb.png",
+    "static/media/2.c316e47a.png": "/static/media/2.c316e47a.png",
+    "static/media/aboutimg.d70bbe4f.png": "/static/media/aboutimg.d70bbe4f.png",
+    "static/media/animal.8e5cc223.png": "/static/media/animal.8e5cc223.png",
+    "static/media/children.1889989f.png": "/static/media/children.1889989f.png",
+    "static/media/disaster.924c7710.png": "/static/media/disaster.924c7710.png",
+    "static/media/krish.4a0b4834.jfif": "/static/media/krish.4a0b4834.jfif",
+    "static/media/merch1.19007db9.jpg": "/static/media/merch1.19007db9.jpg",
+    "static/media/merch2.bc18a03c.jpg": "/static/media/merch2.bc18a03c.jpg",
+    "static/media/mujahid.300f008e.jpeg": "/static/media/mujahid.300f008e.jpeg",
+    "static/media/plant.331e326e.png": "/static/media/plant.331e326e.png",
+    "static/media/senior.c887ae41.png": "/static/media/senior.c887ae41.png",
+    "static/media/tarun.cc1ab13f.jpeg": "/static/media/tarun.cc1ab13f.jpeg",
+    "static/media/women.4e582a88.png": "/static/media/women.4e582a88.png",
+    "static/media/women1.bc659413.jpg": "/static/media/women1.bc659413.jpg",
+    "static/media/women2.b049be3e.jpg": "/static/media/women2.b049be3e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.846c2eda.js",
+    "static/css/2.631cbb15.chunk.css",
+    "static/js/2.b732422d.chunk.js",
+    "static/css/main.98f19f8a.chunk.css",
+    "static/js/main.551fff1c.chunk.js"
+  ]
+}
